@@ -3,7 +3,7 @@ name: Deploy Docker to Azure VM
 on:
   push:
     branches:
-      - main
+      - main 
 
 jobs:
   deploy:
